@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69d3d70c-1b72-4105-a4f5-b225dae9605b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WShkffLaVO6To22QkycyrhoVef" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\24501\WebstormProjects\hahaha\img" />
+      <recent name="C:\Users\24501\WebstormProjects\hahaha\js" />
+      <recent name="C:\Users\24501\WebstormProjects\hahaha" />
+      <recent name="C:\Users\24501\WebstormProjects\hahaha\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\24501\WebstormProjects\hahaha" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d3d70c-1b72-4105-a4f5-b225dae9605b" name="Default Changelist" comment="" />
+      <created>1579149048033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579149048033</updated>
+      <workItem from="1579149049555" duration="8176000" />
+      <workItem from="1579236650648" duration="12254000" />
+      <workItem from="1579262782801" duration="6198000" />
+      <workItem from="1579326997041" duration="13000" />
+      <workItem from="1579338717268" duration="1713000" />
+      <workItem from="1579499912582" duration="1786000" />
+      <workItem from="1579501728817" duration="58000" />
+      <workItem from="1579573718648" duration="2160000" />
+      <workItem from="1579660389741" duration="2528000" />
+      <workItem from="1579664702395" duration="65000" />
+      <workItem from="1580112945122" duration="480000" />
+      <workItem from="1581254222367" duration="7000" />
+      <workItem from="1581254707951" duration="6000" />
+      <workItem from="1581254729484" duration="46000" />
+      <workItem from="1581817101010" duration="4224000" />
+      <workItem from="1581910895267" duration="7132000" />
+      <workItem from="1581918085686" duration="3742000" />
+      <workItem from="1581926605095" duration="5161000" />
+      <workItem from="1581944067849" duration="1639000" />
+      <workItem from="1581999971925" duration="4650000" />
+      <workItem from="1582024783275" duration="2347000" />
+      <workItem from="1582031842163" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="215" key="#Inspections" timestamp="1581817512834">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#Inspections/2560.366.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1581817512834" />
+    <state x="772" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581930382100">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-1788" y="-16" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-2560.-362.2048.1112@-2560.-362.2048.1112" timestamp="1579237282820" />
+    <state x="772" y="346" key="#com.intellij.fileTypes.FileTypeChooser/2560.366.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1581930382100" />
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582031955517">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.366.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1582031955517" />
+    <state x="-2467" y="-269" width="1862" height="926" key="DiffContextDialog" timestamp="1579237857601">
+      <screen x="-2560" y="-362" width="2048" height="1112" />
+    </state>
+    <state x="-2467" y="-269" width="1862" height="926" key="DiffContextDialog/0.0.1536.824/-2560.-362.2048.1112@-2560.-362.2048.1112" timestamp="1579237857601" />
+    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1582032098476">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-1755" y="-50" key="FileChooserDialogImpl/0.0.1536.824/-2560.-362.2048.1112@-2560.-362.2048.1112" timestamp="1579245031938" />
+    <state x="604" y="231" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579664756462" />
+    <state x="805" y="312" key="FileChooserDialogImpl/2560.366.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1582032098476" />
+    <state x="527" y="148" key="SettingsEditor" timestamp="1581918179763">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-2034" y="-163" key="SettingsEditor/0.0.1536.824/-2560.-362.2048.1112@-2560.-362.2048.1112" timestamp="1579161142297" />
+    <state x="395" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579664760618" />
+    <state x="527" y="148" key="SettingsEditor/2560.366.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1581918179763" />
+    <state x="408" y="78" width="1550" height="923" key="dock-window-1" timestamp="1581915525476">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="408" y="78" width="1550" height="923" key="dock-window-1/2560.366.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1581915525476" />
+    <state x="759" y="433" width="648" height="378" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1581254769124">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="569" y="321" width="648" height="378" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1579664759773" />
+    <state x="759" y="433" key="org.intellij.images.editor.actions.BackgroundImageDialog/2560.366.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1581254769124" />
+    <state x="515" y="180" width="672" height="503" key="search.everywhere.popup" timestamp="1579575632928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1873" y="-119" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-2560.-362.2048.1112@-2560.-362.2048.1112" timestamp="1579161478330" />
+    <state x="515" y="180" width="672" height="503" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579575632928" />
+  </component>
+</project>
