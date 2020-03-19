@@ -23,4 +23,9 @@ public class UserServiceImpl implements UserService {
     public User findUserByEmailAndPassword(User user) throws Exception {
         return userDao.findUserByEmailAndPassword(user);
     }
+
+    @Override
+    public User findUserByName(User user) throws Exception {
+        return userDao.findUserByName(user);
+    }
 }

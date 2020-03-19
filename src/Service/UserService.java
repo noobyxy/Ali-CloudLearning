@@ -9,5 +9,6 @@ public interface UserService {
      */
     public User findUserByEmailAndPassword(User user) throws Exception;
     public User findUserByNameAndPassword(User user) throws Exception;
+    public User findUserByName(User user) throws Exception;
     public void addUser(User user) throws Exception;
 }

@@ -80,4 +80,30 @@ public class UserDaoImpl implements dao.UserDao{
         }
         return u;
     }
+
+    @Override
+    public User findUserByName(User user) throws Exception {
+        Connection con = null;
+        PreparedStatement ps = null;
+        ResultSet rs = null;
+        User u = null;
+        try {
+            //System.out.println(user.getEmail());
+            con = DBUtil.getConnection();
+            ps = con.prepareStatement("select * from t_user where name=?");
+            ps.setString(1, user.getName());
+            //System.out.println(user.getPassword());
+            rs = ps.executeQuery();
+            if (rs.next()) {
+                u = new User();
+                u.setId(rs.getInt(1));
+                u.setName(rs.getString(2));
+                u.setEmail(rs.getString(3));
+                u.setPassword(rs.getString(4));
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return u;
+    }
 }

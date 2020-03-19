@@ -70,7 +70,7 @@
 </nav>
 
 <div class="container">
-    <form action="RegisterServlet" class="form-horizontal img-rounded" style=" padding: 20px;">
+    <form action="RegisterServlet" class="form-horizontal img-rounded" style=" padding: 20px;" method="post">
         <div class="form-group">
             <label for="username" class="col-sm-2 control-label" style="color: white;font-size: 20px;">用户名</label>
             <div class="col-sm-8">
